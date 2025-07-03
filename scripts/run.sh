@@ -1,4 +1,4 @@
-#!/usr/var/sh
+#!/usr/bin/sh
 
 chmod +x dist/executable
 dist/executable
